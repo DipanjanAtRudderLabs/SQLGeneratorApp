@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "GeminiResponseCapture",
+    "pageId": "Page1",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "Page1_GeminiResponseCapture",
+  "deleted": false,
+  "gitSyncId": "660a7ee348918a44bc93ec1f_660a8ff8d865a951bffccee8"
+}

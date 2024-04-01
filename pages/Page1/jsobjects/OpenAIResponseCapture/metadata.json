@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "OpenAIResponseCapture",
+    "pageId": "Page1",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "Page1_OpenAIResponseCapture",
+  "deleted": false,
+  "gitSyncId": "660a7ee348918a44bc93ec1f_660a91fad865a951bffccef5"
+}
